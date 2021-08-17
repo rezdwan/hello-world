@@ -4,7 +4,7 @@ Just a test repository.
 
 ## About
 
-This is my first every GitHub repository.
+This is my first ever GitHub repository.
 
 ## Contact
 
